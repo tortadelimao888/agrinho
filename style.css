@@ -1,0 +1,18 @@
+body{
+     background-color: rgb(241, 232, 220);
+    }
+    #cidade {
+        width: 512px;
+        height: 499px;
+        padding: left 400px;
+        padding-right: 400px;
+     }
+     header{
+    background-color: #9D7E6A;
+    width: 2000px;
+    height: 238px;
+    padding-left:1px;
+    padding-right:1px;
+    font-size: 64px;
+    font-aling:center;
+}
