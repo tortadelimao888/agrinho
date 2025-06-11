@@ -2,8 +2,8 @@ body{
      background-color: rgb(241, 232, 220);
     }
     #cidade {
-        width: 512px;
-        height: 499px;
+        width: 412px;
+        height: 399px;
         padding: left 400px;
         padding-right: 400px;
      }
@@ -13,6 +13,6 @@ body{
     height: 238px;
     padding-left:1px;
     padding-right:1px;
-    font-size: 64px;
-    font-aling:center;
+    font-size: 200px;
+    font-align:center;
 }
